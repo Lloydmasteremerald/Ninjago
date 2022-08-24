@@ -1,0 +1,40 @@
+body {
+  color: lime;
+  text-align: center;
+  background-image: linear-gradient(blue, green);
+}
+
+img {
+  border-radius: 30px;
+  height: 260px;
+  width: 260px;
+  margin-top: 40px;
+}
+
+.menu {
+  position: fixed;
+  background: red;
+  width: 100%;
+  margin-top: 0px;
+  top: 0px;
+  z-index: 10;
+  cursor: pointer;
+
+}
+
+#Gaming {
+  font-family: 'Comic Neue', cursive;
+}
+
+.link {
+  display: inline;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: 'Comic Neue', cursive;
+  font-size: 20px;
+  color: lime;
+}
+
+.contact1 h3 {
+  display: inline;
+}
